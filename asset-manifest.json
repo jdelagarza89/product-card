@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/produce-card/static/css/main.5210297b.css",
+    "main.js": "/produce-card/static/js/main.cf578d0f.js",
+    "static/media/pdesk.jpg": "/produce-card/static/media/pdesk.c96d43af17111fe78e96.jpg",
+    "index.html": "/produce-card/index.html",
+    "static/media/icon-cart.svg": "/produce-card/static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
+    "main.5210297b.css.map": "/produce-card/static/css/main.5210297b.css.map",
+    "main.cf578d0f.js.map": "/produce-card/static/js/main.cf578d0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5210297b.css",
+    "static/js/main.cf578d0f.js"
+  ]
+}
